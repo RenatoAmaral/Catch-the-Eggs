@@ -1,3 +1,3 @@
 # Catch-the-Eggs
 
-game using HTML, CSS, JavaScript, and jQuery.
+Game using HTML, CSS, JavaScript, and jQuery.
